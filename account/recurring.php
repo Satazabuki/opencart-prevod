@@ -1,67 +1,67 @@
 <?php
 // Heading
-$_['heading_title']           = 'Recurring Payments';
+$_['heading_title']           = 'Obnovljiva Uplata';
 
 // Text
-$_['text_account']            = 'Account';
-$_['text_recurring']          = 'Recurring Payment Information';
-$_['text_recurring_detail']   = 'Recurring Payment Details';
-$_['text_order_recurring_id'] = 'Recurring ID:';
-$_['text_date_added']         = 'Date Added:';
+$_['text_account']            = 'Nalog';
+$_['text_recurring']          = 'Informacije o obnovljivim uplatama';
+$_['text_recurring_detail']   = 'Detalji obnovljive uplate';
+$_['text_order_recurring_id'] = 'ID Obnavljanja:';
+$_['text_date_added']         = 'Datum Dodat:';
 $_['text_status']             = 'Status:';
-$_['text_payment_method']     = 'Payment Method:';
-$_['text_order_id']           = 'Order ID:';
-$_['text_product']            = 'Product:';
-$_['text_quantity']           = 'Quantity:';
-$_['text_description']        = 'Description';
-$_['text_reference']          = 'Reference';
-$_['text_transaction']        = 'Transactions';
+$_['text_payment_method']     = 'Način Uplate:';
+$_['text_order_id']           = 'ID Porudzbine:';
+$_['text_product']            = 'Proizvod:';
+$_['text_quantity']           = 'Količina:';
+$_['text_description']        = 'Opis';
+$_['text_reference']          = 'Preporuka';
+$_['text_transaction']        = 'Transakcija';
 
 
-$_['text_status_1']           = 'Active';
-$_['text_status_2']           = 'Inactive';
-$_['text_status_3']           = 'Cancelled';
-$_['text_status_4']           = 'Suspended';
-$_['text_status_5']           = 'Expired';
-$_['text_status_6']           = 'Pending';
+$_['text_status_1']           = 'Aktivan';
+$_['text_status_2']           = 'Neaktivan';
+$_['text_status_3']           = 'Otkazan';
+$_['text_status_4']           = 'Suspendovan';
+$_['text_status_5']           = 'Istekao';
+$_['text_status_6']           = 'Na čekanju';
 
-$_['text_transaction_date_added'] = 'Created';
-$_['text_transaction_payment'] = 'Payment';
-$_['text_transaction_outstanding_payment'] = 'Outstanding payment';
-$_['text_transaction_skipped'] = 'Payment skipped';
-$_['text_transaction_failed'] = 'Payment failed';
-$_['text_transaction_cancelled'] = 'Cancelled';
-$_['text_transaction_suspended'] = 'Suspended';
-$_['text_transaction_suspended_failed'] = 'Suspended from failed payment';
-$_['text_transaction_outstanding_failed'] = 'Outstanding payment failed';
-$_['text_transaction_expired'] = 'Expired';
-
-
-
-
-$_['text_empty']                 = 'No recurring payments found!';
-$_['text_error']                 = 'The recurring order you requested could not be found!';
+$_['text_transaction_date_added'] = 'Proizveden';
+$_['text_transaction_payment'] = 'Uplata';
+$_['text_transaction_outstanding_payment'] = 'Vanredno Plaćanje';
+$_['text_transaction_skipped'] = 'Preskočena Uplata';
+$_['text_transaction_failed'] = 'Neuspela Uplata';
+$_['text_transaction_cancelled'] = 'Otkazana';
+$_['text_transaction_suspended'] = 'Suspendovana';
+$_['text_transaction_suspended_failed'] = 'Suspendovan zbog neuspelog plaćanja';
+$_['text_transaction_outstanding_failed'] = 'Neuspelo Vanredno Plaćanje';
+$_['text_transaction_expired'] = 'Isteklo';
 
 
 
+
+$_['text_empty']                 = 'Nisu pronađene obnovljive uplate!';
+$_['text_error']                 = 'Obnovljiva porudzbina nije pronađena!';
 
 
 
 
 
-$_['text_cancelled'] = 'Recurring payment has been cancelled';
+
+
+
+$_['text_cancelled'] = 'Obnovljiva porudzbina otkazana';
 
 // Column
-$_['column_date_added']         = 'Date Added';
-$_['column_type']               = 'Type';
-$_['column_amount']             = 'Amount';
+$_['column_date_added']         = 'Datum Dodat';
+$_['column_type']               = 'Vrsta';
+$_['column_amount']             = 'Iznos';
 $_['column_status']             = 'Status';
-$_['column_product']            = 'Product';
-$_['column_order_recurring_id'] = 'Recurring ID';
+$_['column_product']            = 'Proizvod';
+$_['column_order_recurring_id'] = 'ID Obnavljanja';
 
 // Error
-$_['error_not_cancelled'] = 'Error: %s';
-$_['error_not_found']     = 'Could not cancel recurring';
+$_['error_not_cancelled'] = 'Greška: %s';
+$_['error_not_found']     = 'Nemoguće otkazati';
 
 // Button
-$_['button_return']       = 'Return';
+$_['button_return']       = 'Nazad';
