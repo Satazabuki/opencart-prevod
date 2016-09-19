@@ -1,37 +1,37 @@
 <?php
 // Heading
-$_['heading_title']         = 'Order History';
+$_['heading_title']         = 'Istorija Porudzbina';
 
 // Text
-$_['text_account']          = 'Account';
-$_['text_order']            = 'Order Information';
-$_['text_order_detail']     = 'Order Details';
-$_['text_invoice_no']       = 'Invoice No.:';
-$_['text_order_id']         = 'Order ID:';
-$_['text_date_added']       = 'Date Added:';
-$_['text_shipping_address'] = 'Shipping Address';
-$_['text_shipping_method']  = 'Shipping Method:';
-$_['text_payment_address']  = 'Payment Address';
-$_['text_payment_method']   = 'Payment Method:';
-$_['text_comment']          = 'Order Comments';
-$_['text_history']          = 'Order History';
-$_['text_success']          = 'Success: You have added <a href="%s">%s</a> to your <a href="%s">shopping cart</a>!';
-$_['text_empty']            = 'You have not made any previous orders!';
-$_['text_error']            = 'The order you requested could not be found!';
+$_['text_account']          = 'Nalog';
+$_['text_order']            = 'Porudzbina';
+$_['text_order_detail']     = 'Detalji Porudzbine';
+$_['text_invoice_no']       = 'Broj Fakture.:';
+$_['text_order_id']         = 'ID Porudzbine:';
+$_['text_date_added']       = 'Dodato datuma:';
+$_['text_shipping_address'] = 'Adresa Isporuke';
+$_['text_shipping_method']  = 'Način Isporuke:';
+$_['text_payment_address']  = 'Adresa Platioca';
+$_['text_payment_method']   = 'Način Plaćanja:';
+$_['text_comment']          = 'Komentari o porudzbini';
+$_['text_history']          = 'Istorija porudzbina';
+$_['text_success']          = 'Uspešno: Dodali ste <a href="%s">%s</a> u vašu <a href="%s">kupovnu korpu</a>!';
+$_['text_empty']            = 'Niste imali ranijih porudybina!';
+$_['text_error']            = 'Vaša porudzbina nije pronađena!';
 
 // Column
-$_['column_order_id']       = 'Order ID';
-$_['column_customer']       = 'Customer';
-$_['column_product']        = 'No. of Products';
-$_['column_name']           = 'Product Name';
+$_['column_order_id']       = 'ID Porudzbine';
+$_['column_customer']       = 'Kupac';
+$_['column_product']        = 'Broj Proizvoda';
+$_['column_name']           = 'Naziv Proizvoda';
 $_['column_model']          = 'Model';
-$_['column_quantity']       = 'Quantity';
-$_['column_price']          = 'Price';
-$_['column_total']          = 'Total';
-$_['column_action']         = 'Action';
-$_['column_date_added']     = 'Date Added';
+$_['column_quantity']       = 'Količina';
+$_['column_price']          = 'Cena';
+$_['column_total']          = 'Ukupno';
+$_['column_action']         = 'Akcija';
+$_['column_date_added']     = 'Dodato Datuma';
 $_['column_status']         = 'Status';
-$_['column_comment']        = 'Comment';
+$_['column_comment']        = 'Komentar';
 
 // Error
 $_['error_reorder']         = '%s is not currently available to be reordered.';
