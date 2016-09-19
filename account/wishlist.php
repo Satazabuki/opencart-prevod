@@ -1,20 +1,20 @@
 <?php
 // Heading
-$_['heading_title'] = 'My Wish List';
+$_['heading_title'] = 'Moja lista želja';
 
 // Text
-$_['text_account']  = 'Account';
-$_['text_instock']  = 'In Stock';
-$_['text_wishlist'] = 'Wish List (%s)';
-$_['text_login']    = 'You must <a href="%s">login</a> or <a href="%s">create an account</a> to save <a href="%s">%s</a> to your <a href="%s">wish list</a>!';
-$_['text_success']  = 'Success: You have added <a href="%s">%s</a> to your <a href="%s">wish list</a>!';
-$_['text_remove']   = 'Success: You have modified your wish list!';
-$_['text_empty']    = 'Your wish list is empty.';
+$_['text_account']  = 'Nalog';
+$_['text_instock']  = 'Na Lageru';
+$_['text_wishlist'] = 'Lista želja (%s)';
+$_['text_login']    = 'Morate biti <a href="%s">prijavljeni</a> ili <a href="%s">napravite nalog</a> kako bi sačuvali <a href="%s">%s</a> u vašu <a href="%s">listu želja</a>!';
+$_['text_success']  = 'Uspešno: Dodali ste <a href="%s">%s</a> u vašu <a href="%s">listu želja</a>!';
+$_['text_remove']   = 'Uspešno: Izmenili ste listu želja!';
+$_['text_empty']    = 'Vaša lista želja je prazna.';
 
 // Column
-$_['column_image']  = 'Image';
-$_['column_name']   = 'Product Name';
+$_['column_image']  = 'Slika';
+$_['column_name']   = 'Ime proizvoda';
 $_['column_model']  = 'Model';
-$_['column_stock']  = 'Stock';
-$_['column_price']  = 'Unit Price';
-$_['column_action'] = 'Action';
+$_['column_stock']  = 'Lager';
+$_['column_price']  = 'Cena po jedinici';
+$_['column_action'] = 'Akcija';
