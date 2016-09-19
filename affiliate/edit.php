@@ -1,37 +1,37 @@
 <?php
 // Heading
-$_['heading_title']     = 'My Account Information';
+$_['heading_title']     = 'Informacije o mom nalogu';
 
 // Text
-$_['text_account']      = 'Account';
-$_['text_edit']         = 'Edit Information';
-$_['text_your_details'] = 'Your Personal Details';
-$_['text_your_address'] = 'Your Address';
-$_['text_success']      = 'Success: Your account has been successfully updated.';
+$_['text_account']      = 'Nalog';
+$_['text_edit']         = 'Izmeni informacije';
+$_['text_your_details'] = 'Vaši Lični Podatci';
+$_['text_your_address'] = 'Vaša Adresa';
+$_['text_success']      = 'Uspešno: Vaš nalog je uspešno ažuriran.';
 
 // Entry
-$_['entry_firstname']   = 'First Name';
-$_['entry_lastname']    = 'Last Name';
+$_['entry_firstname']   = 'Ime';
+$_['entry_lastname']    = 'Prezime';
 $_['entry_email']       = 'E-Mail';
-$_['entry_telephone']   = 'Telephone';
+$_['entry_telephone']   = 'Telefon';
 $_['entry_fax']         = 'Fax';
-$_['entry_company']     = 'Company';
-$_['entry_website']     = 'Web Site';
-$_['entry_address_1']   = 'Address 1';
-$_['entry_address_2']   = 'Address 2';
-$_['entry_postcode']    = 'Post Code';
-$_['entry_city']        = 'City';
-$_['entry_country']     = 'Country';
-$_['entry_zone']        = 'Region / State';
+$_['entry_company']     = 'Kompanija';
+$_['entry_website']     = 'Web Sajt';
+$_['entry_address_1']   = 'Adresa 1';
+$_['entry_address_2']   = 'Adresa 2';
+$_['entry_postcode']    = 'Poštanski Fah';
+$_['entry_city']        = 'Grad';
+$_['entry_country']     = 'Država';
+$_['entry_zone']        = 'Region / Država';
 
 // Error
-$_['error_exists']      = 'Warning: E-Mail address is already registered!';
-$_['error_firstname']   = 'First Name must be between 1 and 32 characters!';
-$_['error_lastname']    = 'Last Name must be between 1 and 32 characters!';
-$_['error_email']       = 'E-Mail Address does not appear to be valid!';
-$_['error_telephone']   = 'Telephone must be between 3 and 32 characters!';
-$_['error_address_1']   = 'Address 1 must be between 3 and 128 characters!';
-$_['error_city']        = 'City must be between 2 and 128 characters!';
-$_['error_country']     = 'Please select a country!';
-$_['error_zone']        = 'Please select a region / state!';
-$_['error_postcode']    = 'Postcode must be between 2 and 10 characters!';
+$_['error_exists']      = 'Upozorenje: E-Mail adresa je već registrovana!';
+$_['error_firstname']   = 'Ime mora da sadrži izmedju 1 i 32 karaktera!';
+$_['error_lastname']    = 'Prezime mora da sadrži izmedju 1 i 32 karaktera!';
+$_['error_email']       = 'E-Mail Adresa nije ispravna!';
+$_['error_telephone']   = 'Telefonski broj mora da sadrži između 3 i 32 karaktera!';
+$_['error_address_1']   = 'Prva Adresa mora da sadrži između 3 i 128 karaktera!';
+$_['error_city']        = 'Grad mora da sadrži između 2 i 128 karaktera!';
+$_['error_country']     = 'Molimo vas izaberite Grad!';
+$_['error_zone']        = 'Molimo vas izaberite Region / Državu!';
+$_['error_postcode']    = 'Poštanski Fah mora da sadrži između 2 i 10 karaktera!';
