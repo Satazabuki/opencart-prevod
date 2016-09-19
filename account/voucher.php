@@ -1,32 +1,32 @@
 <?php
 // Heading
-$_['heading_title']    = 'Purchase a Gift Certificate';
+$_['heading_title']    = 'Kupite poklon vaučer';
 
 // Text
-$_['text_account']     = 'Account';
-$_['text_voucher']     = 'Gift Certificate';
-$_['text_description'] = 'This gift certificate will be emailed to the recipient after your order has been paid for.';
-$_['text_agree']       = 'I understand that gift certificates are non-refundable.';
-$_['text_message']     = '<p>Thank you for purchasing a gift certificate! Once you have completed your order your gift certificate recipient will be sent an e-mail with details how to redeem their gift certificate.</p>';
-$_['text_for']         = '%s Gift Certificate for %s';
+$_['text_account']     = 'Nalog';
+$_['text_voucher']     = 'Poklon vaučer';
+$_['text_description'] = 'Poklon vaučer će biti poslat na email nakon plaćanja.';
+$_['text_agree']       = 'Razumem da poklon vaučer ne podlaže povraćaju novca.';
+$_['text_message']     = '<p>Hvala na kupovini poklon vaučera! Nakon kupovine poklon vaučer će biti poslat na email sa uputstvom kako da se iskoristi.</p>';
+$_['text_for']         = '%s Poklon vaučer za %s';
 
 // Entry
-$_['entry_to_name']    = 'Recipient\'s Name';
-$_['entry_to_email']   = 'Recipient\'s e-mail';
-$_['entry_from_name']  = 'Your Name';
-$_['entry_from_email'] = 'Your e-mail';
-$_['entry_theme']      = 'Gift Certificate Theme';
-$_['entry_message']    = 'Message';
-$_['entry_amount']     = 'Amount';
+$_['entry_to_name']    = 'Ime primaoca';
+$_['entry_to_email']   = 'E-mail primaoca';
+$_['entry_from_name']  = 'Vaše ime';
+$_['entry_from_email'] = 'Vaš e-mail';
+$_['entry_theme']      = 'Poklon vaučer Tema';
+$_['entry_message']    = 'Poruka';
+$_['entry_amount']     = 'Iznos';
 
 // Help
-$_['help_message']     = 'Optional';
-$_['help_amount']      = 'Value must be between %s and %s';
+$_['help_message']     = 'Opciono';
+$_['help_amount']      = 'Iznos mora biti između %s i %s';
 
 // Error
-$_['error_to_name']    = 'Recipient\'s Name must be between 1 and 64 characters!';
-$_['error_from_name']  = 'Your Name must be between 1 and 64 characters!';
-$_['error_email']      = 'E-Mail Address does not appear to be valid!';
-$_['error_theme']      = 'You must select a theme!';
-$_['error_amount']     = 'Amount must be between %s and %s!';
-$_['error_agree']      = 'Warning: You must agree that the gift certificates are non-refundable!';
+$_['error_to_name']    = 'Ime primaoca mora da sadrži između 1 i 64 karaktera!';
+$_['error_from_name']  = 'Vaše ime mora da sadrži između 1 i 64 karaktera!';
+$_['error_email']      = 'E-Mail Adresa je neispravna!';
+$_['error_theme']      = 'Morate izabrati temu!';
+$_['error_amount']     = 'Iznos mora biti između %s i %s!';
+$_['error_agree']      = 'Upozorenje: Morate se složoto ta poklon vaučer ne podlaže povraćaju novca!';
