@@ -1,6 +1,6 @@
 <?php
 // Heading
-$_['heading_title']      = 'Moj Nalog';
+$_['heading_title']      = 'Moj Nalo';
 
 // Text
 $_['text_account']       = 'Nalog';
