@@ -1,21 +1,21 @@
 <?php
 // Heading
-$_['heading_title']   = 'Forgot Your Password?';
+$_['heading_title']   = 'Zaboravili ste svoju lozinku?';
 
 // Text
-$_['text_account']    = 'Account';
-$_['text_forgotten']  = 'Forgotten Password';
-$_['text_your_email'] = 'Your E-Mail Address';
-$_['text_email']      = 'Enter the e-mail address associated with your account. Click submit to have a password reset link e-mailed to you.';
-$_['text_success']    = 'An email with a confirmation link has been sent your email address.';
+$_['text_account']    = 'Nalog';
+$_['text_forgotten']  = 'Zaboravljena lozinka';
+$_['text_your_email'] = 'Vaša E-Mail Adresa';
+$_['text_email']      = 'Unesite e-mail adresu vezanu za vaš nalog. Kliknite potvrđujem da resetujete lozinku potvrdu ćete dobiti putem e-maila.';
+$_['text_success']    = 'Potvrda je poslata na vaš e-mail.';
 
 // Entry
-$_['entry_email']     = 'E-Mail Address';
-$_['entry_password']  = 'New Password';
-$_['entry_confirm']   = 'Confirm';
+$_['entry_email']     = 'E-Mail Adresa';
+$_['entry_password']  = 'Nova lozinka';
+$_['entry_confirm']   = 'Potvrdi';
 
 // Error
-$_['error_email']     = 'Warning: The E-Mail Address was not found in our records, please try again!';
-$_['error_approved']  = 'Warning: Your account requires approval before you can login.';
-$_['error_password']  = 'Password must be between 4 and 20 characters!';
-$_['error_confirm']   = 'Password and password confirmation do not match!';
+$_['error_email']     = 'Upozorenje:E-mail adresa nije pronađena u nasoj bazi,molimo vas pokušajte ponovo!';
+$_['error_approved']  = 'Upozorenje: Vaš nalog zahteva aktivaciju pre prijave.';
+$_['error_password']  = 'Lozinka mora da sadrži između 4 i 20 karaktera!';
+$_['error_confirm']   = 'Lozinka i potvrda o aktivaciji se ne slažu!';
