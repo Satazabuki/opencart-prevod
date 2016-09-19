@@ -3,7 +3,7 @@
 $_['heading_title']             = 'Način Uplate';
 
 // Text
-$_['text_account']              = 'nalog';
+$_['text_account']              = 'Nalog';
 $_['text_payment']              = 'Plaćanje';
 $_['text_your_payment']         = 'Informacije o Plaćanju';
 $_['text_your_password']        = 'Vaša Lozinka';
