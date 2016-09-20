@@ -44,7 +44,7 @@ $_['entry_confirm']             = 'Potvrda Lozinke';
 
 // Error
 $_['error_exists']              = 'Upozorenje: E-Mail Adresa je već registrovana!';
-$_['error_firstname']           = 'Ime mora da sadrži izmedju 1 i 32 karaktera!';
+$_['error_firstname']           = 'Ime mora da sadrži između 1 i 32 karaktera!';
 $_['error_lastname']            = 'Prezime mora da sadrži između 1 i 32 karaktera!';
 $_['error_email']               = 'E-Mail Adresa nije ispravna!';
 $_['error_telephone']           = 'Telefon mora da sadrži između 3 i 32 karaktera!';
