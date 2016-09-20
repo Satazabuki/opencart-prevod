@@ -1,18 +1,18 @@
 <?php
 // Text
-$_['text_address']       = 'Success: Shipping address has been set!';
-$_['text_method']        = 'Success: Shipping method has been set!';
+$_['text_address']       = 'Uspešno: Adresa isporuke je podešena!';
+$_['text_method']        = 'Uspešno: Metoda isporuke je podešena!';
 
 // Error
-$_['error_permission']   = 'Warning: You do not have permission to access the API!';
-$_['error_firstname']    = 'First Name must be between 1 and 32 characters!';
-$_['error_lastname']     = 'Last Name must be between 1 and 32 characters!';
-$_['error_address_1']    = 'Address 1 must be between 3 and 128 characters!';
-$_['error_city']         = 'City must be between 3 and 128 characters!';
-$_['error_postcode']     = 'Postcode must be between 2 and 10 characters for this country!';
-$_['error_country']      = 'Please select a country!';
-$_['error_zone']         = 'Please select a region / state!';
-$_['error_custom_field'] = '%s required!';
-$_['error_address']      = 'Warning: Shipping address required!';
-$_['error_method']       = 'Warning: Shipping method required!';
-$_['error_no_shipping']  = 'Warning: No Shipping options are available!';
+$_['error_permission']   = 'Upozorenje: Nemate dozvolu za pristup API!';
+$_['error_firstname']    = 'Ime mora da sadrži između 1 i 32 karaktera!';
+$_['error_lastname']     = 'Prezime mora da sadrži između 1 i 32 karaktera !';
+$_['error_address_1']    = 'Adresa 1 mora da sadrži između 3 i 128 karaktera!';
+$_['error_city']         = 'Grad mora da sadrži između 3 i 128 karaktera!';
+$_['error_postcode']     = 'Poštanski fah mora da sadrži između 2 i 10 za ovu Zemlju!';
+$_['error_country']      = 'Molimo vas izaberite Zemlju!';
+$_['error_zone']         = 'Molimo vas izabertie region / državu!';
+$_['error_custom_field'] = '%s Neophodno!';
+$_['error_address']      = 'Upozorenje: Potrebna adresa za isporuku!';
+$_['error_method']       = 'Upozorenje: Potreban metod isporuke!';
+$_['error_no_shipping']  = 'Upozorenje: Nema opcije za dostavu!';
