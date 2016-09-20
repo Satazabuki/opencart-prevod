@@ -8,7 +8,7 @@ $_['text_payment']              = 'Plaćanje';
 $_['text_your_payment']         = 'Informacije o Plaćanju';
 $_['text_your_password']        = 'Vaša Lozinka';
 $_['text_cheque']               = 'Provera';
-$_['text_paypal']               = 'PejPal';
+$_['text_paypal']               = 'PeyPal';
 $_['text_bank']                 = 'Bankovni Transfer';
 $_['text_success']              = 'Uspešno: Vaš nalog je uspešno ažuriran.';
 
