@@ -1,6 +1,6 @@
 <?php
 // Text
-$_['text_success']     = 'Uspešno: Your reward points discount has been applied!';
+$_['text_success']     = 'Uspešno: Vaši nagradni poeni su uspešno dodati!';
 
 // Error
 $_['error_permission'] = 'Upozorenje: Nemate dozvolu za pristup API!';
