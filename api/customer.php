@@ -1,11 +1,11 @@
 <?php
 // Text
-$_['text_success']       = 'You have successfully modified customers';
+$_['text_success']       = 'Uspešno ste modifikovali kupca';
 
 // Error
-$_['error_permission']   = 'Warning: You do not have permission to access the API!';
-$_['error_firstname']    = 'First Name must be between 1 and 32 characters!';
-$_['error_lastname']     = 'Last Name must be between 1 and 32 characters!';
-$_['error_email']        = 'E-Mail Address does not appear to be valid!';
-$_['error_telephone']    = 'Telephone must be between 3 and 32 characters!';
-$_['error_custom_field'] = '%s required!';
+$_['error_permission']   = 'Upozorenje: Nemate pristup API!';
+$_['error_firstname']    = 'Ime mora da sadrži između 1 i 32 karaktera!';
+$_['error_lastname']     = 'Prezime mora da sadrži između 1 i 32 karaktera!';
+$_['error_email']        = 'E-Mail Adresa koju ste uneli nije ispravna!';
+$_['error_telephone']    = 'Telefon mora da sadrži između 3 i 32 karaktera!';
+$_['error_custom_field'] = '%s Neophodno!';
