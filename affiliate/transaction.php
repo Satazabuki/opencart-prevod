@@ -1,14 +1,14 @@
 <?php
 // Heading
-$_['heading_title']      = 'Your Transactions';
+$_['heading_title']      = 'Vaša Transakcija';
 
 // Column
-$_['column_date_added']  = 'Date Added';
-$_['column_description'] = 'Description';
-$_['column_amount']      = 'Amount (%s)';
+$_['column_date_added']  = 'Datum Dodat';
+$_['column_description'] = 'Opis';
+$_['column_amount']      = 'Iznos (%s)';
 
 // Text
-$_['text_account']       = 'Account';
-$_['text_transaction']   = 'Your Transactions';
-$_['text_balance']       = 'Your current balance is:';
-$_['text_empty']         = 'You do not have any transactions!';
+$_['text_account']       = 'Nalog';
+$_['text_transaction']   = 'Vaše Transakcije';
+$_['text_balance']       = 'Vaš trenutni saldo je:';
+$_['text_empty']         = 'Nemate Transakcija!';
