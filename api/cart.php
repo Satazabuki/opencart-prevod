@@ -1,10 +1,10 @@
 <?php
 // Text
-$_['text_success']     = 'Success: You have modified your shopping cart!';
+$_['text_success']     = 'Uspešno: Izmenili ste  potrošačku korpu!';
 
 // Error
-$_['error_permission'] = 'Warning: You do not have permission to access the API!';
-$_['error_stock']      = 'Products marked with *** are not available in the desired quantity or not in stock!';
-$_['error_minimum']    = 'Minimum order amount for %s is %s!';
-$_['error_store']      = 'Product can not be bought from the store you have choosen!';
-$_['error_required']   = '%s required!';
+$_['error_permission'] = 'Upozorenje: Nemate pristup API!';
+$_['error_stock']      = 'Proizvodi označeni sa *** nisu dostupni u određenoj količini ili ih nema na stanju!';
+$_['error_minimum']    = 'Minimalna količina porudzbine %s is %s!';
+$_['error_store']      = 'Proizvod ne može biti kupljen iz prodavnice koju ste odabrali!';
+$_['error_required']   = '%s Neophodno!';
