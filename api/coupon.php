@@ -1,7 +1,7 @@
 <?php
 // Text
-$_['text_success']     = 'Success: Your coupon discount has been applied!';
+$_['text_success']     = 'Uspešno: Vaš popust je aktiviran!';
 
 // Error
-$_['error_permission'] = 'Warning: You do not have permission to access the API!';
-$_['error_coupon']     = 'Warning: Coupon is either invalid, expired or reached it\'s usage limit!';
+$_['error_permission'] = 'Upozorenje: Nemate pristup API!';
+$_['error_coupon']     = 'Upozorenje: Ili je neispravan kupon, istekao,ili je \došao do limita !';
