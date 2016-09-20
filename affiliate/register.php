@@ -54,5 +54,5 @@ $_['error_address_1']           = 'Adresa 1 mora da ima između 3 i 128 karakter
 $_['error_city']                = 'Grad mora da ima između 2 i 128 karaktera!';
 $_['error_country']             = 'Molimo vas izaberite Zemlju!';
 $_['error_zone']                = 'Molimo vas izaberite region / državu!';
-$_['error_postcode']            = 'Poštanski fah mora da sadrži izmedju 2 i 10 karaktera!';
+$_['error_postcode']            = 'Poštanski fah mora da sadrži između 2 i 10 karaktera!';
 $_['error_agree']               = 'Upozorenje: Morate se složiti do %s!';
