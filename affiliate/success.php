@@ -1,9 +1,9 @@
 <?php
 // Heading
-$_['heading_title'] = 'Your Affiliate Account Has Been Created!';
+$_['heading_title'] = 'Vaš Partnerski nalog je kreiran!';
 
 // Text
-$_['text_message']  = '<p>Congratulations! Your new account has been successfully created!</p> <p>You are now a member of %s affiliates.</p> <p>If you have ANY questions about the operation of this affiliate system, please e-mail the store owner.</p> <p>A confirmation has been sent to the provided e-mail address. If you have not received it within the hour, please <a href="%s">contact us</a>.</p>';
-$_['text_approval'] = '<p>Thank you for registering for an affiliate account with %s!</p><p>You will be notified by e-mail once your account has been activated by the store owner.</p><p>If you have ANY questions about the operation of this affiliate system, please <a href="%s">contact the store owner</a>.</p>';
-$_['text_account']  = 'Account';
-$_['text_success']  = 'Success';
+$_['text_message']  = '<p>Čestitamo! Vaš novi račun je uspešno kreiran!</p> <p>Sada ste član %s partnera.</p> <p>Ako imate bilo kakva pitanja vezana za uvaj partnerski sistem, molimo vas pošaljite e-mail vlasniku prodavnice.</p> <p>A potvrda je uspešno poslata na e-mail adresu. Ako ne primite potvrdu u roku od sat vremena molimo vas <a href="%s">kontaktirajte nas</a>.</p>';
+$_['text_approval'] = '<p>Hvala vam što ste registrovali partnerski nalog sa %s!</p><p>Bićete obavešteni kad vaš nalog bude aktiviran od strane vlasnika prodavnice.</p><p>,Ako imate bilo kakva pitanja vezana za uvaj partnerski sistem, molimo vas <a href="%s">kontaktirajte vlasnika prodavnice</a>.</p>';
+$_['text_account']  = 'Nalog';
+$_['text_success']  = 'Uspešan';
