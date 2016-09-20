@@ -1,14 +1,14 @@
 <?php
 // Text
-$_['text_success']     = 'Success: Your gift voucher discount has been applied!';
-$_['text_cart']        = 'Success: You have modified your shopping cart!';
-$_['text_for']         = '%s Gift Certificate for %s';
+$_['text_success']     = 'Uspešno: vaš poklon vaučer je aktiviran!';
+$_['text_cart']        = 'Uspešno: Modifikovali ste vašu potrošačku korpu!';
+$_['text_for']         = '%s Poklon Vaučer za %s';
 
 // Error
-$_['error_permission'] = 'Warning: You do not have permission to access the API!';
-$_['error_voucher']    = 'Warning: Gift Voucher is either invalid or the balance has been used up!';
-$_['error_to_name']    = 'Recipient\'s Name must be between 1 and 64 characters!';
-$_['error_from_name']  = 'Your Name must be between 1 and 64 characters!';
-$_['error_email']      = 'E-Mail Address does not appear to be valid!';
-$_['error_theme']      = 'You must select a theme!';
-$_['error_amount']     = 'Amount must be between %s and %s!';
+$_['error_permission'] = 'Upozorenje: nemate dozvolu za pristup API!';
+$_['error_voucher']    = 'Upozorenje: Poklon vaučer nije ispravan ili ste potrošili sav iznos!';
+$_['error_to_name']    = 'Ime Primaoca\ mora da sadrži između 1 i 64 karaktera!';
+$_['error_from_name']  = 'Vaše ime mora da sadrži između  1 i 64 karaktera!';
+$_['error_email']      = 'E-Mail Adresa nije validna!';
+$_['error_theme']      = 'Morate da izaberete temu!';
+$_['error_amount']     = 'Iznos mora da bude između %s i %s!';
