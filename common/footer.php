@@ -1,17 +1,17 @@
 <?php
 // Text
-$_['text_information']  = 'Information';
-$_['text_service']      = 'Customer Service';
-$_['text_extra']        = 'Extras';
-$_['text_contact']      = 'Contact Us';
-$_['text_return']       = 'Returns';
-$_['text_sitemap']      = 'Site Map';
-$_['text_manufacturer'] = 'Brands';
-$_['text_voucher']      = 'Gift Certificates';
-$_['text_affiliate']    = 'Affiliates';
-$_['text_special']      = 'Specials';
-$_['text_account']      = 'My Account';
-$_['text_order']        = 'Order History';
-$_['text_wishlist']     = 'Wish List';
-$_['text_newsletter']   = 'Newsletter';
-$_['text_powered']      = 'Powered By <a href="http://www.opencart.com">OpenCart</a><br /> %s &copy; %s';
+$_['text_information']  = 'Informacije';
+$_['text_service']      = 'Potrošački Servis';
+$_['text_extra']        = 'Dodatci';
+$_['text_contact']      = 'Kontaktirajte nas';
+$_['text_return']       = 'Povraćaji';
+$_['text_sitemap']      = 'Mapa Sajta';
+$_['text_manufacturer'] = 'Marke';
+$_['text_voucher']      = 'Potvrde za Poklone';
+$_['text_affiliate']    = 'Partneri';
+$_['text_special']      = 'Specijalne Ponude';
+$_['text_account']      = 'Moj Nalog';
+$_['text_order']        = 'Istorija Porudzbina';
+$_['text_wishlist']     = 'Lista Želja';
+$_['text_newsletter']   = 'Bilten';
+$_['text_powered']      = 'Pokreće ga <a href="http://www.opencart.com">OpenCart</a><br /> %s &copy; %s';
