@@ -38,5 +38,5 @@ $_['column_total']             = 'Ukupno';
 $_['error_stock']              = 'Proizvodi označeni sa *** nisu dostupni u željenoj količini ili ih nema na stanju!';
 $_['error_minimum']            = 'Minimalna količina za porudzbinu %s je %s!';
 $_['error_required']           = '%s Neophodno!';
-$_['error_product']            = 'Warning: There are no products in your cart!';
-$_['error_recurring_required'] = 'Please select a payment recurring!';
+$_['error_product']            = 'Upozorenje: Vaša potrošačka korpa je prazna!';
+$_['error_recurring_required'] = 'Molimo vas izaberite metod plaćanja!';
