@@ -1,42 +1,42 @@
 <?php
 // Heading
-$_['heading_title']            = 'Shopping Cart';
+$_['heading_title']            = 'Potrošačka korpa';
 
 // Text
-$_['text_success']             = 'Success: You have added <a href="%s">%s</a> to your <a href="%s">shopping cart</a>!';
-$_['text_remove']              = 'Success: You have modified your shopping cart!';
-$_['text_login']               = 'Attention: You must <a href="%s">login</a> or <a href="%s">create an account</a> to view prices!';
-$_['text_items']               = '%s item(s) - %s';
-$_['text_points']              = 'Reward Points: %s';
-$_['text_next']                = 'What would you like to do next?';
-$_['text_next_choice']         = 'Choose if you have a discount code or reward points you want to use or would like to estimate your delivery cost.';
-$_['text_empty']               = 'Your shopping cart is empty!';
-$_['text_day']                 = 'day';
-$_['text_week']                = 'week';
-$_['text_semi_month']          = 'half-month';
-$_['text_month']               = 'month';
-$_['text_year']                = 'year';
-$_['text_trial']               = '%s every %s %s for %s payments then ';
-$_['text_recurring']           = '%s every %s %s';
-$_['text_length']              = ' for %s payments';
-$_['text_until_cancelled']     = 'until cancelled';
-$_['text_recurring_item']      = 'Recurring Item';
-$_['text_payment_recurring']   = 'Payment Profile';
-$_['text_trial_description']   = '%s every %d %s(s) for %d payment(s) then';
-$_['text_payment_description'] = '%s every %d %s(s) for %d payment(s)';
-$_['text_payment_cancel']      = '%s every %d %s(s) until canceled';
+$_['text_success']             = 'Uspešno: Dodali ste <a href="%s">%s</a> u vašu <a href="%s">kupovnu korpu</a>!';
+$_['text_remove']              = 'Uspešno: modifikovali ste vašu kupovnu korpu!';
+$_['text_login']               = 'Pažnja: Morate se <a href="%s">prijaviti</a> ili <a href="%s">napraviti nalog</a> da bi videli cene!';
+$_['text_items']               = '%s stvar(i) - %s';
+$_['text_points']              = 'Nagradni Poeni: %s';
+$_['text_next']                = 'Šta bi želeli da uradite sledeće?';
+$_['text_next_choice']         = 'Da li želite da iskoristite popust ili nagradne poene ili želite da proverite cenu isporuke.';
+$_['text_empty']               = 'Vaša potrošačka korpa je prazna!';
+$_['text_day']                 = 'dan';
+$_['text_week']                = 'nedelja';
+$_['text_semi_month']          = 'pola meseca';
+$_['text_month']               = 'mesec';
+$_['text_year']                = 'godina';
+$_['text_trial']               = '%s svaka %s %s za %s plaćanje tada ';
+$_['text_recurring']           = '%s svaka %s %s';
+$_['text_length']              = ' za %s plaćanje';
+$_['text_until_cancelled']     = 'do otkazivanja';
+$_['text_recurring_item']      = 'Obnavljajući Artikal';
+$_['text_payment_recurring']   = 'Profil Plaćanja';
+$_['text_trial_description']   = '%s svaka %d %s(s) za %d uplatu(e) onda';
+$_['text_payment_description'] = '%s svaka %d %s(s) za %d uplatu(e)';
+$_['text_payment_cancel']      = '%s svaka %d %s(s) dok se ne otkaže';
 
 // Column
-$_['column_image']             = 'Image';
-$_['column_name']              = 'Product Name';
+$_['column_image']             = 'Slika';
+$_['column_name']              = 'Naziv proizvoda';
 $_['column_model']             = 'Model';
-$_['column_quantity']          = 'Quantity';
-$_['column_price']             = 'Unit Price';
-$_['column_total']             = 'Total';
+$_['column_quantity']          = 'Količina';
+$_['column_price']             = 'Cena po jedinici';
+$_['column_total']             = 'Ukupno';
 
 // Error
-$_['error_stock']              = 'Products marked with *** are not available in the desired quantity or not in stock!';
-$_['error_minimum']            = 'Minimum order amount for %s is %s!';
-$_['error_required']           = '%s required!';
+$_['error_stock']              = 'Proizvodi označeni sa *** nisu dostupni u željenoj količini ili ih nema na stanju!';
+$_['error_minimum']            = 'Minimalna količina za porudzbinu %s je %s!';
+$_['error_required']           = '%s Neophodno!';
 $_['error_product']            = 'Warning: There are no products in your cart!';
 $_['error_recurring_required'] = 'Please select a payment recurring!';
