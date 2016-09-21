@@ -1,16 +1,16 @@
 <?php
 // Text
-$_['text_home']          = 'Home';
-$_['text_wishlist']      = 'Wish List (%s)';
-$_['text_shopping_cart'] = 'Shopping Cart';
-$_['text_category']      = 'Categories';
-$_['text_account']       = 'My Account';
-$_['text_register']      = 'Register';
-$_['text_login']         = 'Login';
-$_['text_order']         = 'Order History';
-$_['text_transaction']   = 'Transactions';
-$_['text_download']      = 'Downloads';
-$_['text_logout']        = 'Logout';
-$_['text_checkout']      = 'Checkout';
-$_['text_search']        = 'Search';
-$_['text_all']           = 'Show All';
+$_['text_home']          = 'Početna';
+$_['text_wishlist']      = 'Lista Želja (%s)';
+$_['text_shopping_cart'] = 'Potrošačka korpa';
+$_['text_category']      = 'Kategorije';
+$_['text_account']       = 'Moj Nalog';
+$_['text_register']      = 'Registracija';
+$_['text_login']         = 'Prijava';
+$_['text_order']         = 'Istorija Porudzbi';
+$_['text_transaction']   = 'Transakcije';
+$_['text_download']      = 'Preuzimanja';
+$_['text_logout']        = 'Odjava';
+$_['text_checkout']      = 'Odjavljivanje';
+$_['text_search']        = 'Pretraži';
+$_['text_all']           = 'Prikaži sve';
