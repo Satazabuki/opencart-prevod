@@ -1,15 +1,15 @@
 <?php
 // Heading
-$_['heading_title']    = 'Affiliate';
+$_['heading_title']    = 'Partneri';
 
 // Text
-$_['text_register']    = 'Register';
-$_['text_login']       = 'Login';
-$_['text_logout']      = 'Logout';
-$_['text_forgotten']   = 'Forgotten Password';
-$_['text_account']     = 'My Account';
-$_['text_edit']        = 'Edit Account';
-$_['text_password']    = 'Password';
-$_['text_payment']     = 'Payment Options';
-$_['text_tracking']    = 'Affiliate Tracking';
-$_['text_transaction'] = 'Transactions';
+$_['text_register']    = 'Registracija';
+$_['text_login']       = 'Prijava';
+$_['text_logout']      = 'Odjava';
+$_['text_forgotten']   = 'Zaboravili ste lozinku';
+$_['text_account']     = 'Moj Nalog';
+$_['text_edit']        = 'Prepravite Nalog';
+$_['text_password']    = 'Lozinka';
+$_['text_payment']     = 'Način Plaćanja';
+$_['text_tracking']    = 'Pracenje Partnera';
+$_['text_transaction'] = 'Transakcije';
