@@ -1,9 +1,9 @@
 <?php
 // Text
-$_['text_captcha'] = 'Captcha';
+$_['text_captcha'] = 'Siguronosni kod';
 
 // Entry
-$_['entry_captcha'] = 'Please complete the captcha validation below';
+$_['entry_captcha'] = 'Molimo vas dovršite potvrdu validacijonog koda ispod ';
 
 // Error
-$_['error_captcha'] = 'Verification is not correct!';
+$_['error_captcha'] = 'Potvrda nije ispravna!';
