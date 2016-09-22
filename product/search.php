@@ -1,34 +1,34 @@
 <?php
 // Heading
-$_['heading_title']     = 'Search';
+$_['heading_title']     = 'Pretraga';
 $_['heading_tag']		= 'Tag - ';
 
 // Text
-$_['text_search']       = 'Products meeting the search criteria';
-$_['text_keyword']      = 'Keywords';
-$_['text_category']     = 'All Categories';
-$_['text_sub_category'] = 'Search in subcategories';
-$_['text_empty']        = 'There is no product that matches the search criteria.';
-$_['text_quantity']     = 'Qty:';
-$_['text_manufacturer'] = 'Brand:';
-$_['text_model']        = 'Product Code:';
-$_['text_points']       = 'Reward Points:';
-$_['text_price']        = 'Price:';
-$_['text_tax']          = 'Ex Tax:';
-$_['text_reviews']      = 'Based on %s reviews.';
-$_['text_compare']      = 'Product Compare (%s)';
-$_['text_sort']         = 'Sort By:';
-$_['text_default']      = 'Default';
-$_['text_name_asc']     = 'Name (A - Z)';
-$_['text_name_desc']    = 'Name (Z - A)';
-$_['text_price_asc']    = 'Price (Low &gt; High)';
-$_['text_price_desc']   = 'Price (High &gt; Low)';
-$_['text_rating_asc']   = 'Rating (Lowest)';
-$_['text_rating_desc']  = 'Rating (Highest)';
+$_['text_search']       = 'Proizvodi vaše pretrage';
+$_['text_keyword']      = 'Ključne reči';
+$_['text_category']     = 'Sve kategorije';
+$_['text_sub_category'] = 'Traži u podkategorijama';
+$_['text_empty']        = 'Nema proizvoda za vašu pretragu.';
+$_['text_quantity']     = 'Kol:';
+$_['text_manufacturer'] = 'Marka:';
+$_['text_model']        = 'Šifra proizvoda:';
+$_['text_points']       = 'Neagradni poeni:';
+$_['text_price']        = 'Cena:';
+$_['text_tax']          = 'Bez zaxe:';
+$_['text_reviews']      = 'Bazirano na %s recenzija.';
+$_['text_compare']      = 'Poređenje proizvoda (%s)';
+$_['text_sort']         = 'Sortirano po:';
+$_['text_default']      = 'Uobičajeno';
+$_['text_name_asc']     = 'Ime (A - Z)';
+$_['text_name_desc']    = 'Ime (Z - A)';
+$_['text_price_asc']    = 'Cena (Manja &gt; Veća)';
+$_['text_price_desc']   = 'Cena (Veća &gt; Manja)';
+$_['text_rating_asc']   = 'Rejting (Manji)';
+$_['text_rating_desc']  = 'Rejting (Veći)';
 $_['text_model_asc']    = 'Model (A - Z)';
 $_['text_model_desc']   = 'Model (Z - A)';
-$_['text_limit']        = 'Show:';
+$_['text_limit']        = 'Prikaži:';
 
 // Entry
-$_['entry_search']      = 'Search Criteria';
-$_['entry_description'] = 'Search in product descriptions';
+$_['entry_search']      = 'Kriterijum pretrage';
+$_['entry_description'] = 'Traži u opisu proizvoda';
