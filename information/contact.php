@@ -1,27 +1,27 @@
 <?php
 // Heading
-$_['heading_title']  = 'Contact Us';
+$_['heading_title']  = 'Kontaktirajte nas';
 
 // Text
-$_['text_location']  = 'Our Location';
-$_['text_store']     = 'Our Stores';
-$_['text_contact']   = 'Contact Form';
-$_['text_address']   = 'Address';
-$_['text_telephone'] = 'Telephone';
+$_['text_location']  = 'Naša lokacija';
+$_['text_store']     = 'Naša prodavnica';
+$_['text_contact']   = 'Kontakt forma';
+$_['text_address']   = 'Adresa';
+$_['text_telephone'] = 'Telefon';
 $_['text_fax']       = 'Fax';
-$_['text_open']      = 'Opening Times';
-$_['text_comment']   = 'Comments';
-$_['text_success']   = '<p>Your enquiry has been successfully sent to the store owner!</p>';
+$_['text_open']      = 'Radno vreme';
+$_['text_comment']   = 'Komentar';
+$_['text_success']   = '<p>Vaše pitanje je uspešno poslat!</p>';
 
 // Entry
-$_['entry_name']     = 'Your Name';
-$_['entry_email']    = 'E-Mail Address';
-$_['entry_enquiry']  = 'Enquiry';
+$_['entry_name']     = 'Vaše ime';
+$_['entry_email']    = 'E-Mail Adresa';
+$_['entry_enquiry']  = 'Pitanje';
 
 // Email
-$_['email_subject']  = 'Enquiry %s';
+$_['email_subject']  = 'Pitanje %s';
 
 // Errors
-$_['error_name']     = 'Name must be between 3 and 32 characters!';
-$_['error_email']    = 'E-Mail Address does not appear to be valid!';
-$_['error_enquiry']  = 'Enquiry must be between 10 and 3000 characters!';
+$_['error_name']     = 'Ime mora da sadrži između 3 i 32 karaktera!';
+$_['error_email']    = 'E-Mail adresa je neispravna!';
+$_['error_enquiry']  = 'Pitanje mora da sadrži između 10 i 3000 karaktera!';
