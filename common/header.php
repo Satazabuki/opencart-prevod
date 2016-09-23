@@ -11,6 +11,6 @@ $_['text_order']         = 'Istorija Porudzbi';
 $_['text_transaction']   = 'Transakcije';
 $_['text_download']      = 'Preuzimanja';
 $_['text_logout']        = 'Odjava';
-$_['text_checkout']      = 'Odjavljivanje';
+$_['text_checkout']      = 'Plaćanje';
 $_['text_search']        = 'Pretraži';
 $_['text_all']           = 'Prikaži sve';
