@@ -1,14 +1,14 @@
 <?php
 // Heading
-$_['heading_title'] = 'Use Gift Certificate';
+$_['heading_title'] = 'Iskoristi Poklon Vaučer';
 
 // Text
-$_['text_voucher']  = 'Gift Certificate (%s)';
-$_['text_success']  = 'Success: Your gift certificate discount has been applied!';
+$_['text_voucher']  = 'Poklon Vaučer (%s)';
+$_['text_success']  = 'Uspešno: Vaš poklon popust vaučer je dodat!';
 
 // Entry
-$_['entry_voucher'] = 'Enter your gift certificate code here';
+$_['entry_voucher'] = 'Unesite svoj poklon vaučer kod ovde';
 
 // Error
-$_['error_voucher'] = 'Warning: Gift Certificate is either invalid or the balance has been used up!';
-$_['error_empty']   = 'Warning: Please enter a gift certificate code!';
+$_['error_voucher'] = 'Upozorenje: Potvrda o poklonu je nevažeća ili je iskorišćena !';
+$_['error_empty']   = 'Upozorenje: Unesite kod poklon vaučera!';
