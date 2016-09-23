@@ -1,10 +1,10 @@
 <?php
 // Heading
-$_['heading_title']                  = 'Odjava';
+$_['heading_title']                  = 'Plaćanje';
 
 // Text
 $_['text_cart']                      = 'Potrošačka Korpa';
-$_['text_checkout_option']           = 'Korak %s: Opcije Odjave';
+$_['text_checkout_option']           = 'Korak %s: Opcije Plaćanja';
 $_['text_checkout_account']          = 'Korak %s: Nalog &amp; Detalji o Uplati';
 $_['text_checkout_payment_address']  = 'Korak %s: Detalji o Uplati ';
 $_['text_checkout_shipping_address'] = 'Korak %s: Detalji o Isporuci';
@@ -14,10 +14,10 @@ $_['text_checkout_confirm']          = 'Korak %s: Potvrda Porudzbine';
 $_['text_modify']                    = 'Prepravi &raquo;';
 $_['text_new_customer']              = 'Novi Klijent';
 $_['text_returning_customer']        = 'Postojeci Klijent';
-$_['text_checkout']                  = 'Opcije za Odjavu:';
+$_['text_checkout']                  = 'Opcije za plaćanje:';
 $_['text_i_am_returning_customer']   = 'Ja sam stari kupac';
 $_['text_register']                  = 'Registracija Naloga';
-$_['text_guest']                     = 'Odjava Gosta';
+$_['text_guest']                     = 'Plaćanje kao gost';
 $_['text_register_account']          = 'Otvaranjem naloga bićete u prilici da kupujete brže, budite u toku sa statusom porudzbine, i pratite porudzbine koje ste ranije imali.';
 $_['text_forgotten']                 = 'Zaboravili ste Lozinku';
 $_['text_your_details']              = 'Vaši lični detalji';
