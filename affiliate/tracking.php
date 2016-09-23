@@ -1,15 +1,15 @@
 <?php
 // Heading
-$_['heading_title']    = 'Affiliate Tracking';
+$_['heading_title']    = 'Praćenje Partnera';
 
 // Text
-$_['text_account']     = 'Account';
-$_['text_description'] = 'To make sure you get paid for referrals you send to us we need to track the referral by placing a tracking code in the URL\'s linking to us. You can use the tools below to generate links to the %s web site.';
+$_['text_account']     = 'Nalog';
+$_['text_description'] = 'Da bi bili sigurni da ćete biti isplaćeni za preporuke koje nam šaljete treba pratiti zahtev postavljanjem koda za praćenje na sledećoj URL\ povezivanjem sa nama. Možete koristiti alate iz ponude da napravite linkove za %s web sajt.';
 
 // Entry
-$_['entry_code']       = 'Your Tracking Code';
-$_['entry_generator']  = 'Tracking Link Generator';
-$_['entry_link']       = 'Tracking Link';
+$_['entry_code']       = 'Vaš kod za praćenje';
+$_['entry_generator']  = 'Link Generator za praćenje';
+$_['entry_link']       = 'Link za praćenje';
 
 // Help
-$_['help_generator']  = 'Type in the name of a product you would like to link to';
+$_['help_generator']  = 'Tip i ime proizvoda na koji želite da se povežete';
