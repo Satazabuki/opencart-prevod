@@ -11,7 +11,7 @@ $_['text_telephone'] = 'Telefon';
 $_['text_fax']       = 'Fax';
 $_['text_open']      = 'Radno vreme';
 $_['text_comment']   = 'Komentar';
-$_['text_success']   = '<p>Vaše pitanje je uspešno poslat!</p>';
+$_['text_success']   = '<p>Vaše pitanje je uspešno poslato!</p>';
 
 // Entry
 $_['entry_name']     = 'Vaše ime';
