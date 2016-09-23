@@ -4,7 +4,7 @@ $_['heading_title'] = 'Neuspela Uplata!';
 
 // Text
 $_['text_basket']   = 'Potrošačka Korpa';
-$_['text_checkout'] = 'Odjava';
+$_['text_checkout'] = 'Plaćanje';
 $_['text_failure']  = 'Neuspela Uplata';
 $_['text_message']  = '<p>Došlo je do problema prilikom obrade vaše porudzbine,porudzbina nije uspela .</p>
 
